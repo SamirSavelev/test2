@@ -26,7 +26,8 @@ yarn-error.log*
 .pnpm-debug.log*
 
 # local env files
-.env*.local
+# .env.test.local
+# .env убрал из гитигнора, чтобы сразу можно было запустить проект без добавления переменных среды
 
 # vercel
 .vercel

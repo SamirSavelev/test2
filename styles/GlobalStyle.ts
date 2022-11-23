@@ -25,12 +25,12 @@ const GlobalStyle = createGlobalStyle`
 	}
 	
 	iframe {
-		font-family: 'Montserrat', sans-serif !important;
+		font-family: 'Roboto', sans-serif;
 	}
 
 	body {
 		overflow-x: hidden;
-		font-family: 'Montserrat', sans-serif;
+		font-family: 'Roboto', sans-serif;
 		font-weight: 400;
 		font-size: 13px;
 		line-height: 13px;
